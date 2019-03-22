@@ -1,0 +1,12 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx protractor conf.js"
+  },
+  "devDependencies": {
+    "protractor": "^5.4.2"
+  }
+}
